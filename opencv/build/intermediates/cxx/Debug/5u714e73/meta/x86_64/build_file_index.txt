@@ -1,1 +1,0 @@
-E:\AndroidAppDevelopment\InsuranceCardScanKTX\opencv\libcxx_helper\CMakeLists.txt

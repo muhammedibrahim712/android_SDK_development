@@ -92,7 +92,7 @@ class CardScanViewUI : AppCompatActivity(), CameraBridgeViewBase.CvCameraViewLis
     }
 
     override fun onDestroy() {
-            binding.camera.disableView();
+        binding.camera.disableView();
         super.onDestroy()
     }
     override fun onResume() {
